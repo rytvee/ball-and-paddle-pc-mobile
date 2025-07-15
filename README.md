@@ -1,4 +1,4 @@
-# Ball and Paddle
+# Ball and Paddle Game
 
 A simpe browser-based weather app built for PC and mobile using HTML5 Canvas and JavaScript
 
